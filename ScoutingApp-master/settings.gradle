@@ -1,0 +1,1 @@
+include ':scouting-app', ':blue-alliance-api'
